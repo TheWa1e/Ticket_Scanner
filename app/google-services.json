@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120410089775",
+    "project_id": "kotlin-sql",
+    "storage_bucket": "kotlin-sql.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120410089775:android:12654c5e005b0e756959da",
+        "android_client_info": {
+          "package_name": "tutorialwing.com.zxinglibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120410089775-kf59oouvgvbdmdlpi6873g46cvlnce9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-06oFtp5wKN_RMSBG2Jah_YQnzsGAIDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120410089775-kf59oouvgvbdmdlpi6873g46cvlnce9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
